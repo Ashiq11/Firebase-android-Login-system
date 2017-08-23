@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "115978544205",
+    "firebase_url": "https://firbaseloginsystem.firebaseio.com",
+    "project_id": "firbaseloginsystem",
+    "storage_bucket": "firbaseloginsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115978544205:android:89ae88d8d2462f10",
+        "android_client_info": {
+          "package_name": "ca.synergyforce.ashiq.firebaseloginsytem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115978544205-tmmsblcv8ffnqnm85binqi3vs6cqavm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCa0IsqXytug76LSVj5ulNy_I7e0jfIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
